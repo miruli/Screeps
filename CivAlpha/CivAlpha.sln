@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CivAlpha", "CivAlpha", "{0A5A65DC-16CD-4011-8EB1-41F7EFBE43E2}"
+	ProjectSection(SolutionItems) = preProject
+		CivAlpha\CreepFactory.js = CivAlpha\CreepFactory.js
+		CivAlpha\CreepMonitor.js = CivAlpha\CreepMonitor.js
+		CivAlpha\CreepPreset.js = CivAlpha\CreepPreset.js
+		CivAlpha\main.js = CivAlpha\main.js
+		CivAlpha\readme.txt = CivAlpha\readme.txt
+		CivAlpha\role.builder.js = CivAlpha\role.builder.js
+		CivAlpha\role.harvester.js = CivAlpha\role.harvester.js
+		CivAlpha\role.recovery.js = CivAlpha\role.recovery.js
+		CivAlpha\role.upgrader.js = CivAlpha\role.upgrader.js
+		CivAlpha\SourceMonitor.js = CivAlpha\SourceMonitor.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
