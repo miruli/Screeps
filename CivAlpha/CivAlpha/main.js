@@ -14,7 +14,7 @@ module.exports.loop = function () {
     list.push(new CreepPreset('harvester', [CARRY], [WORK, MOVE], 1, 3, '#ff0000'));
     list.push(new CreepPreset('upgrader', [CARRY], [WORK, MOVE], 1, 0, '#00ff00'));
     list.push(new CreepPreset('builder', [CARRY], [WORK, MOVE], 1, 1, '#0000ff'));
-    list.push(new CreepPreset('harvester', [CARRY], [WORK, MOVE], 2, 13, '#ff0000'));
+    list.push(new CreepPreset('harvester', [CARRY], [WORK, MOVE], 2, 15, '#ff0000'));
     list.push(new CreepPreset('upgrader', [CARRY], [WORK, MOVE], 2, 5, '#00ff00'));
     list.push(new CreepPreset('builder', [CARRY], [WORK, MOVE], 2, 5, '#0000ff'));
     var moni = new CreepMonitor(list);
